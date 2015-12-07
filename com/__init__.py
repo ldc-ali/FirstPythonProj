@@ -1,3 +1,3 @@
 __author__ = 'dongcai.ldc'
 print('Hello World')
-print('love snow')
+print('love master')
